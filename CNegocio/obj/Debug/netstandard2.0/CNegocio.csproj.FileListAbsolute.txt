@@ -1,0 +1,14 @@
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\CNegocio.deps.json
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\CNegocio.dll
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\CNegocio.pdb
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\CDatos.dll
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\CDatos.pdb
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\bin\Debug\netstandard2.0\MySql.Data.xml
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.csprojAssemblyReference.cache
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.AssemblyInfoInputs.cache
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.AssemblyInfo.cs
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.csproj.CopyComplete
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.dll
+C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CNegocio\obj\Debug\netstandard2.0\CNegocio.pdb

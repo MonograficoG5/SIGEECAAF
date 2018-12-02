@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CDatos\\CDatos.csproj",
+      "projectUniqueName": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CDatos\\CDatos.csproj",
       "projectName": "CDatos",
-      "projectPath": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CDatos\\CDatos.csproj",
+      "projectPath": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CDatos\\CDatos.csproj",
       "packagesPath": "C:\\Users\\liccl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CDatos\\obj\\",
+      "outputPath": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

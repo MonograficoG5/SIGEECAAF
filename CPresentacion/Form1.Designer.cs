@@ -32,17 +32,21 @@
             this.Guardar = new System.Windows.Forms.Button();
             this.esteNombre = new System.Windows.Forms.TextBox();
             this.esteID = new System.Windows.Forms.TextBox();
+            this.Eliminar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.TablaArticulos)).BeginInit();
             this.SuspendLayout();
             // 
             // TablaArticulos
             // 
+            this.TablaArticulos.AllowUserToAddRows = false;
+            this.TablaArticulos.AllowUserToDeleteRows = false;
             this.TablaArticulos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.TablaArticulos.Location = new System.Drawing.Point(357, 51);
             this.TablaArticulos.Name = "TablaArticulos";
+            this.TablaArticulos.ReadOnly = true;
             this.TablaArticulos.RowTemplate.Height = 24;
             this.TablaArticulos.Size = new System.Drawing.Size(447, 483);
-            this.TablaArticulos.TabIndex = 0;
+            this.TablaArticulos.TabIndex = 3;
             // 
             // Guardar
             // 
@@ -66,13 +70,24 @@
             this.esteID.Location = new System.Drawing.Point(82, 51);
             this.esteID.Name = "esteID";
             this.esteID.Size = new System.Drawing.Size(47, 22);
-            this.esteID.TabIndex = 1;
+            this.esteID.TabIndex = 0;
+            // 
+            // Eliminar
+            // 
+            this.Eliminar.Location = new System.Drawing.Point(82, 176);
+            this.Eliminar.Name = "Eliminar";
+            this.Eliminar.Size = new System.Drawing.Size(96, 30);
+            this.Eliminar.TabIndex = 2;
+            this.Eliminar.Text = "Eliminar";
+            this.Eliminar.UseVisualStyleBackColor = true;
+            this.Eliminar.Click += new System.EventHandler(this.Eliminar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(932, 591);
+            this.Controls.Add(this.Eliminar);
             this.Controls.Add(this.Guardar);
             this.Controls.Add(this.esteNombre);
             this.Controls.Add(this.esteID);
@@ -92,6 +107,7 @@
         private System.Windows.Forms.Button Guardar;
         private System.Windows.Forms.TextBox esteNombre;
         private System.Windows.Forms.TextBox esteID;
+        private System.Windows.Forms.Button Eliminar;
     }
 }
 

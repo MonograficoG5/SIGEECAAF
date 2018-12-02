@@ -14,7 +14,6 @@ namespace CPresentacion
 
     public partial class Form1 : Form
     {
-        CN_Articulo CN = new CN_Articulo();
 
         public Form1()
         {
@@ -28,12 +27,23 @@ namespace CPresentacion
 
         private void MostrarArticulos()
         {
+            CN_Articulo CN = new CN_Articulo();
             TablaArticulos.DataSource = CN.MostrarArticulos();
         }
 
         private void Guardar_Click(object sender, EventArgs e)
         {
-            CN.GuardarArticulos(esteID.Text, esteNombre.Text);
+            CN_Articulo CN = new CN_Articulo();
+            CN.GuardarArticulo(esteID.Text, esteNombre.Text);
+            MessageBox.Show("Proceso completado correctamente!");
+            MostrarArticulos();
+        }
+
+        private void Eliminar_Click(object sender, EventArgs e)
+        {
+            CN_Articulo CN = new CN_Articulo();
+            string id = TablaArticulos.CurrentRow.Cells[0].Value.ToString();
+            CN.EliminarArticulo(id);
             MessageBox.Show("Proceso completado correctamente!");
             MostrarArticulos();
         }

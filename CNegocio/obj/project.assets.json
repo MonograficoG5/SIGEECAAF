@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CNegocio\\CNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CNegocio\\CNegocio.csproj",
       "projectName": "CNegocio",
-      "projectPath": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CNegocio\\CNegocio.csproj",
+      "projectPath": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CNegocio\\CNegocio.csproj",
       "packagesPath": "C:\\Users\\liccl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CNegocio\\obj\\",
+      "outputPath": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -223,8 +223,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CDatos\\CDatos.csproj": {
-              "projectPath": "C:\\Users\\liccl\\Documents\\Visual Studio 2017\\Projects\\SistemaGECAA\\CDatos\\CDatos.csproj"
+            "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CDatos\\CDatos.csproj": {
+              "projectPath": "C:\\Users\\liccl\\Documents\\GitHub\\SIGEECAAF\\CDatos\\CDatos.csproj"
             }
           }
         }

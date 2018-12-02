@@ -18,9 +18,14 @@ namespace CNegocio
             return tabla;
         }
 
-        public void GuardarArticulos(string id, string nombre)
+        public void GuardarArticulo(string id, string nombre)
         {
-            objeto.GuardarArticulos(int.Parse(id), nombre);
+            objeto.GuardarArticulo(int.Parse(id), nombre);
+        }
+
+        public void EliminarArticulo(string id)
+        {
+            objeto.EliminarArticulo(int.Parse(id));
         }
     }
 }

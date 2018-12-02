@@ -10,3 +10,15 @@ C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CDatos\obj\Deb
 C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CDatos\obj\Debug\netstandard2.0\CDatos.csproj.CopyComplete
 C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CDatos\obj\Debug\netstandard2.0\CDatos.dll
 C:\Users\liccl\Documents\Visual Studio 2017\Projects\SistemaGECAA\CDatos\obj\Debug\netstandard2.0\CDatos.pdb
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.csprojAssemblyReference.cache
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.AssemblyInfoInputs.cache
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.AssemblyInfo.cs
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.dll
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.pdb
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\bin\Debug\netstandard2.0\CDatos.deps.json
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\bin\Debug\netstandard2.0\CDatos.dll
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\bin\Debug\netstandard2.0\CDatos.pdb
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\bin\Debug\netstandard2.0\MySql.Data.xml
+C:\Users\liccl\Documents\GitHub\SIGEECAAF\CDatos\obj\Debug\netstandard2.0\CDatos.csproj.CopyComplete
